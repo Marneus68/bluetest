@@ -1,0 +1,3 @@
+Exemple d'utilisation de l'api C de BlueZ.
+
+Ce programme fait la liste des appareils bluetooth à portée et ofre la possibilité d'entammer une connection rfcomm avec un des périphériques précedement décourvert.
